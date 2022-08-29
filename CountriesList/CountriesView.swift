@@ -1,14 +1,13 @@
 //
-//  ContentView.swift
+//  CountriesView.swift
 //  CountriesList
 //
 //  Created by Juan Camilo Marín Ochoa on 28/08/22.
 //
 
 import SwiftUI
-import CoreData
 
-struct ContentView: View {
+struct CountriesView: View {
     // StateObject: retiene el estado, crea singleton)
     // ObservedObject: es idoneo cuando se va a utilizar en un solo lugar
     @ObservedObject var countries = CountriesModel()
@@ -24,13 +23,13 @@ struct ContentView: View {
                     }
                 }
             }
-                    .navigationTitle("Paises")
+            .navigationTitle("Paises")
         }
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
-  static var previews: some View {
-      ContentView()
-  }
+struct CountriesView_Previews: PreviewProvider {
+    static var previews: some View {
+        CountriesView()
+    }
 }

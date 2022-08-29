@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/countries-list-swift.iml" filepath="$PROJECT_DIR$/.idea/countries-list-swift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swift_countries-list.iml" filepath="$PROJECT_DIR$/.idea/swift_countries-list.iml" />
     </modules>
   </component>
 </project>
