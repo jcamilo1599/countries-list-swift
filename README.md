@@ -1,5 +1,5 @@
-# Lista de paises
+# Lista de paises - JSON
 
-Ejemplo de lista de paises desarrollado en Swift con SwiftUI
+Ejemplo de lista de paises (desde un JSON) desarrollado en Swift con SwiftUI
 
 ![Image](image.gif)
