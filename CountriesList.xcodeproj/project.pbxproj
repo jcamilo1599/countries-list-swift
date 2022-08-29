@@ -17,7 +17,7 @@
 		9AE23FDB28BC158E00BEA7B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AE23FDA28BC158E00BEA7B0 /* Preview Assets.xcassets */; };
 		9AE23FDD28BC158E00BEA7B0 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE23FDC28BC158E00BEA7B0 /* Persistence.swift */; };
 		9AE23FE028BC158E00BEA7B0 /* CountriesList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AE23FDE28BC158E00BEA7B0 /* CountriesList.xcdatamodeld */; };
-		AE79D69C7E8F1889B7DF9C33 /* image.gif in Resources */ = {isa = PBXBuildFile; fileRef = AE79D437348F174ECC33EB32 /* image.gif */; };
+		AE79D312B0FCC98443EA98B9 /* image.gif in Resources */ = {isa = PBXBuildFile; fileRef = AE79D8A214950FDF7CCB2967 /* image.gif */; };
 		AE79DE08A7F54D822B32249E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = AE79DE19FA804B5C3FC968AB /* README.md */; };
 /* End PBXBuildFile section */
 
@@ -33,7 +33,7 @@
 		9AE23FDA28BC158E00BEA7B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9AE23FDC28BC158E00BEA7B0 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		9AE23FDF28BC158E00BEA7B0 /* CountriesList.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CountriesList.xcdatamodel; sourceTree = "<group>"; };
-		AE79D437348F174ECC33EB32 /* image.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image.gif; sourceTree = "<group>"; };
+		AE79D8A214950FDF7CCB2967 /* image.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image.gif; sourceTree = "<group>"; };
 		AE79DE19FA804B5C3FC968AB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,8 +53,8 @@
 			children = (
 				9AE23FD228BC158E00BEA7B0 /* CountriesList */,
 				9AE23FD128BC158E00BEA7B0 /* Products */,
-				AE79D437348F174ECC33EB32 /* image.gif */,
 				AE79DE19FA804B5C3FC968AB /* README.md */,
+				AE79D8A214950FDF7CCB2967 /* image.gif */,
 			);
 			sourceTree = "<group>";
 		};
@@ -152,7 +152,7 @@
 				9A15CDCB28BC236400100715 /* countries.json in Resources */,
 				9AE23FDB28BC158E00BEA7B0 /* Preview Assets.xcassets in Resources */,
 				9AE23FD828BC158E00BEA7B0 /* Assets.xcassets in Resources */,
-				AE79D69C7E8F1889B7DF9C33 /* image.gif in Resources */,
+				AE79D312B0FCC98443EA98B9 /* image.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
