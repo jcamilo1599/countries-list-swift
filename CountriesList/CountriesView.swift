@@ -11,7 +11,7 @@ struct CountriesView: View {
     // StateObject: retiene el estado, crea singleton)
     // ObservedObject: es idoneo cuando se va a utilizar en un solo lugar
     @ObservedObject var countries = CountriesModel()
-
+    
     var body: some View {
         NavigationView {
             List {

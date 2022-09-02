@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CountryDetailView: View {
     var country: CountryElement
-
+    
     var body: some View {
         VStack {
             CircleImageView(code: country.code)
